@@ -1,0 +1,22 @@
+* {
+    background-color: bisque;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.recipes {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.title {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.pic {
+    height: auto;
+    width: 300px;
+}
